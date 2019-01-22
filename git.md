@@ -30,4 +30,4 @@
 2. The terminal will turn into another window, pick one commit and `fixup` others by changing `pick` to `squash`(`s`) or `fixup`(`f`)
 3. Hit `ESC` then type `:wq` then hit `enter`
 4. Fix all the conflicts
-5. Add, commit and force push the branch 
+5. `Add`, `commit` and `force push` to update the branch 
