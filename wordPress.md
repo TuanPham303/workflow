@@ -17,7 +17,7 @@
 - Install <a href="https://github.com/gulpjs/gulp/blob/v3.9.1/docs/getting-started.md" target="_blank">Gulp</a>.
 - Make gulpfile.js in root directory of the theme folder. Copy the code below into gulpfile.js or refer to <a href="https://www.cssigniter.com/use-sass-gulp-wordpress-theme-plugin-development-workflow/" target="_blank">this link</a>.
 - Change the name of the project in the proxy.
-  ```
+  ```jsx
   const gulp = require('gulp');
   const plumber = require('gulp-plumber');
   const sass = require('gulp-sass');
